@@ -4,7 +4,7 @@ Add new keys here and they become available via t("key") in app.py
 """
 
 TRANSLATIONS = {
-    "app_title": {"en": "Jasmine Hospital System", "ar": "نظام مستشفى جاسمين"},
+    "app_title": {"en": "Abdulla Issa Hospital System", "ar": "نظام مستشفى عبدالله عيسى"},
     "tagline": {"en": "Unified Hospital Information System — Prototype",
                 "ar": "نظام المعلومات الموحد للمستشفى - نموذج أولي"},
 
