@@ -1,5 +1,5 @@
 """
-Jasmine Hospital System — Streamlit prototype.
+Abdulla Issa Hospital System — Streamlit prototype.
 
 Run locally:
     pip install -r requirements.txt
@@ -18,7 +18,7 @@ import streamlit as st
 import db
 from i18n import t as translate
 
-st.set_page_config(page_title="Jasmine Hospital System", page_icon="🏥", layout="wide")
+st.set_page_config(page_title="Abdulla Issa Hospital System", page_icon="🏥", layout="wide")
 
 db.init_db()
 
